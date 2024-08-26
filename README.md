@@ -1,5 +1,5 @@
 
-![Alt text]([src\assets\readmeImg.png](https://github.com/AliAshour2/Sahhel-Summarizer/blob/main/src/assets/readmeImg.png))
+![Alt text](https://github.com/AliAshour2/Sahhel-Summarizer/blob/main/src/assets/readmeImg.png)
 
 
 # Sahhel
